@@ -15,7 +15,7 @@
 
 
 <p align="center"><img src="images/tools.png" width="20px"> Technologies & Tools </p>
-<div align="center" gap="20px">    
+<div align="space-araound">    
     <img src="images/html5.svg" width="50px">
     <img src="images/ccs3.svg" width="50px">
     <img src="images/js.svg" width="50px">
