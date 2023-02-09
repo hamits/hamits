@@ -12,14 +12,13 @@
 ***
 
 
-<p>You can find my html projects <a href="https://github.com/hamits/websites"> here </p>
+<p>You can find my html projects <a href="https://github.com/hamits/websites"> *here* </p>
 
 
 ***
 
 
 <p align="center"><img src="images/tools.png" width="20px"> Technologies & Tools </p>
-
 
 <div align="center">    
     <img src="images/html5.svg" width="50px">
