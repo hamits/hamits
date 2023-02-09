@@ -14,6 +14,14 @@
 
 
 
-<p align="center"><img src="images/tools.png" width="20px" > Technologies & Tools </p>
-<div align="center">    <img src="images/html5.svg" width="50px"><img src="images/ccs3.svg" width="50px"><img src="images/js.svg" width="50px"><img src="images/sass.svg" width="50px"><img src="images/bootstrap.svg" width="50px"><img src="images/react.svg" width="50px"><img src="images/vscode.svg" width="50px"></div>
+<p align="center"><img src="images/tools.png" width="20px" gap="5px"> Technologies & Tools </p>
+<div align="center">    
+    <img src="images/html5.svg" width="50px">
+    <img src="images/ccs3.svg" width="50px">
+    <img src="images/js.svg" width="50px">
+    <img src="images/sass.svg" width="50px">
+    <img src="images/bootstrap.svg" width="50px">
+    <img src="images/react.svg" width="50px">
+    <img src="images/vscode.svg" width="50px">
+</div>
 
