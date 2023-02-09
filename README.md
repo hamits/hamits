@@ -1,4 +1,3 @@
-# hamits
 
 <h1>Hi I'm Hamit</h1>
 
@@ -9,4 +8,8 @@
 
 <p>I am interested in software development related topics.</p>
 
+
+
+
+<p><img src="images/tools.png" style="width: 20px;"> Technologies & Tools </p>
 
