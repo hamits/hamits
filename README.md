@@ -11,5 +11,5 @@
 
 
 
-<p><img src="images/tools.png" style="width: 20px; display: flex; justify-content:center;"> Technologies & Tools </p>
+<p><img src="images/tools.png" style="width: 20px; display: flex; justify-content: center;"> Technologies & Tools </p>
 
