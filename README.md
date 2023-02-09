@@ -12,5 +12,5 @@
 
 
 <p align="center"><img src="images/tools.png" width="20px" > Technologies & Tools </p>
-<div align="center">    <img src="images/html5.svg" width="50px"><img src="images/ccs3.svg"><img src="images/js.svg"><img src="images/sass.svg"><img src="images/bootstrap.svg"><img src="images/react.svg"><img src="images/vscode.svg"></div>
+<div align="center">    <img src="images/html5.svg" width="50px"><img src="images/ccs3.svg" width="50px"><img src="images/js.svg" width="50px"><img src="images/sass.svg" width="50px"><img src="images/bootstrap.svg" width="50px"><img src="images/react.svg" width="50px"><img src="images/vscode.svg" width="50px"></div>
 
