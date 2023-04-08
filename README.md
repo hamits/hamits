@@ -12,13 +12,14 @@
 ***
 
 
-You can find my html projects <a href="https://github.com/hamits/websites">**_here_**
+You can find my projects <a href="https://github.com/hamits/websites">**_here_**
 
 
 ***
 
 
 <p align="center"><img src="images/tools.png" width="20px"> Technologies & Tools </p>
+
 
 
 <div align="center">    
